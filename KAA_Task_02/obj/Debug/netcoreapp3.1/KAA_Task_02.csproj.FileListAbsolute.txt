@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Practice\KAA_Task_02\bin\Debug\netcoreapp3.1\KAA_Task_02.exe
+C:\Users\pc\Desktop\Practice\KAA_Task_02\bin\Debug\netcoreapp3.1\KAA_Task_02.deps.json
+C:\Users\pc\Desktop\Practice\KAA_Task_02\bin\Debug\netcoreapp3.1\KAA_Task_02.runtimeconfig.json
+C:\Users\pc\Desktop\Practice\KAA_Task_02\bin\Debug\netcoreapp3.1\KAA_Task_02.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Practice\KAA_Task_02\bin\Debug\netcoreapp3.1\KAA_Task_02.dll
+C:\Users\pc\Desktop\Practice\KAA_Task_02\bin\Debug\netcoreapp3.1\KAA_Task_02.pdb
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.AssemblyInfo.cs
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.dll
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.pdb
+C:\Users\pc\Desktop\Practice\KAA_Task_02\obj\Debug\netcoreapp3.1\KAA_Task_02.genruntimeconfig.cache
